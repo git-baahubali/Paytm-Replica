@@ -19,6 +19,4 @@ In This Project I Have Created a Homepage of Paytm or you can say its clone of H
 
 ### My Project looks like :
 
-![Web Site Image](./Assets/screencapture-127-0-0-1-5500-index-html-2022-08-20-18_32_06.png)
-
-
+![Web Site Image](./Assets/screencapture-paytm-replica-vercel-app-2022-09-21-00_10_46.png)
