@@ -1,0 +1,127 @@
+.KYC-div{
+    box-shadow: inset 2px 0px 10px red ;
+
+}
+
+.paytm-se-upi{
+    
+    max-width: 80px;
+    
+}
+.Recharge-div{
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.Loved{
+    font-weight:800;
+}
+
+.skyBlue-div >*{
+    margin: auto 0.5rem;
+    padding: 1rem 4rem 1rem 1rem;
+    border-radius: 1rem;
+    aspect-ratio: 4/3;
+
+
+}
+
+.skyBlue-div >*:hover{
+    background-color: #96a8b852;
+   
+}
+
+.pad-left{
+    padding-left: max(50px , 10vw) ;
+}
+body{
+    font-size: 14px;
+}
+.one-em{
+    font-size: 1em;
+    
+}
+
+.two-em{
+    font-size: 2em;
+    
+}
+.three-em{
+    font-size: 3em;
+}
+.four-em{
+    font-size: 4em;
+}
+
+.heading-style{
+    text-align: center;
+}
+
+.mountain{
+
+    background-image: url("Assets/69678bc5.webp");
+}
+
+.card{
+font-size: 14px;
+
+}
+.GRID{
+    display: grid;
+    background-image: linear-gradient(rgb(241, 202, 202),rgb(236, 77, 233));
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left: max(50px , 10vw) ;
+    justify-content: center;
+    column-gap: 10px;
+    
+}
+
+.GRID-item{
+    background-image: linear-gradient(to top right,rgb(190, 248, 185),rgb(180, 170, 242));
+    width: 100px;
+    
+    
+
+}
+
+.max-w-xxs{
+    max-width: 10rem;
+}
+
+.sky-card{
+    background-color: #42ddf5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 1rem;
+    width: 10rem;
+
+}
+.sky-card:hover{
+    background-color: #42c2f5;
+}
+.sky-card-img{
+    width: 90%;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    overflow: hidden;
+    transition: 0.2s ease-in;
+
+}
+
+.sky-card:hover img{
+    transform: scale(1.05);
+    transition: 0.2s ease-in;
+}
+.sky-card-p{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.sky-card-img-2{
+    width: 7rem;
+    padding: 0.5rem;
+}
