@@ -2,7 +2,7 @@
 
 This is Balaji Dasari. Passionate to become a Full Stack Developer.
 
-## Project Name : **Paytm Clone !**  [👉Live Link👈]([https://paytm-replica.vercel.app](https://git-baahubali.github.io/Paytm-Replica/))
+## Project Name : **Paytm Clone !**  [👉Live Link👈](https://paytm-replica.vercel.app](https://git-baahubali.github.io/Paytm-Replica/)
 
 
 In This Project I Have Created a Homepage of Paytm or you can say its clone of Homepage of Paytm Actual Website. I Have taken the reference of Paytm actual website for Creating This Project . To Create This Project i have used HTML and Tailwind CSS components and few lines of css .
